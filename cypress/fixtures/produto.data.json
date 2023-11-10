@@ -1,0 +1,10 @@
+{
+    "produtos": [
+        {
+            "nome": "eBAC Novo 10",
+            "preco": 200,
+            "descricao": "Produto novo",
+            "quantidade": 500
+        }
+    ]
+}
