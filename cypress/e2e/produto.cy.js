@@ -97,7 +97,7 @@ describe('Teste da Funcionalidade Produtos', () => {
                 body:
                 {
                     "nome": produto,
-                    "preco": 50,
+                    "preco": 550,
                     "descricao": "produto editado2",
                     "quantidade": 90
                   }
